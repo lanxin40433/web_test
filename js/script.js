@@ -1,4 +1,7 @@
 // const text = document.querySelectorAll(".thePaths");
+// const svg = document.createElement('svg')
+// const tt = document.createElementNS('http://www.w3.org/2000/svg', 'text')
+
 
 // for (let i = 0; i < text.length; i++){
 //     console.log(`text number ${i} length is ${text[i].getTotalLength()}`);
